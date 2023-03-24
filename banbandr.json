@@ -146,7 +146,7 @@
                 { "option" : "Police And Criminal Simulator" }, { "option" : "Da Hood" }, { "option" : "Murder Mystery" }, { "option" : "JailBreak" }
              ]
         }
-    ],
+     ],
     "menu" : [
         {
             "active" : "false",
@@ -156,42 +156,42 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://i.ibb.co/vxxVY71/ezgif-1-bab27e02bf-unscreen.gif",
+            "ico" : "https://i.ibb.co/4gz3b0r/image-removebg-preview-1.png",
             "bg" : "#ffffff"
         },{
             "active" : "false",
             "name" : "spinner",
-            "ico" : "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
+            "ico" : "https://i.ibb.co/7JhZL13/image-removebg-preview-2-1.png",
             "bg" : "#ffffff"
         },{
             "active" : "false",
             "name" : "scratch",
-            "ico" : "https://i.ibb.co/gVmGsn9/scractch.gif",
+            "ico" : "https://i.ibb.co/WDqhxS4/image-removebg-preview-3-1.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://i.ibb.co/YWJctyj/Untitled-design-unscreen.gif",
+            "ico" : "https://i.ibb.co/5rxvrxp/istockphoto-1052174822-170667a-1.jpg",
             "bg" : "#ffffff"
         },{
             "active" : "false",
             "name" : "quiz",
-            "ico" : "https://i.ibb.co/r33QywR/Untitled-design-unscreen.gif",
+            "ico" : "https://i.ibb.co/s3T9dG6/quiz-logo-with-speech-bubble-icon-149152-813-1.jpg",
             "bg" : "#ffffff"
         },{
             "active" : "false",
             "name" : "wallpapers",
-            "ico" : "https://i.ibb.co/0sSwcW1/waal-unscreen.gif",
+            "ico" : "https://i.ibb.co/Y3rpCqs/preview-1.png",
             "bg" : ""
         },{
             "active" : "false",
             "name" : "more",
-            "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
+            "ico" : "https://i.ibb.co/bd5GmTB/image-removebg-preview-4-1.png",
             "bg" : ""
         },{
             "active" : "false",
             "name" : "games",
-            "ico" : "https://i.ibb.co/mJYnghj/Untitled-design-unscreen.gif",
+            "ico" : "https://i.ibb.co/BNQvW2Q/unnamed-1.jpg",
             "bg" : "#ffffff"
         }
     ],
