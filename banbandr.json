@@ -39,73 +39,59 @@
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
     ],
-  "quizquestions" : [
-        {
-            "questions" :
-            [
-        {"question": "What was the name of the first person to walk on the moon?"},
-        {"question": "What is the name of the longest-serving Mars rover, launched by NASA in 2003?"},
-        {"question": "What is the name of the first artificial satellite launched into space by the Soviet Union in 1957?"},
-        {"question": "What was the name of the first American woman in space?"},
-        {"question": "What is the name of the space telescope launched by NASA in 1990?"},
-        {"question": "What is the name of the first privately-funded spacecraft to reach orbit?"},
-        {"question": "What is the name of the first spacecraft to visit Pluto, launched by NASA in 2006?"},
-        {"question": "What is the name of the rocket that sent the first American into space in 1961?"},
-        {"question": "What is the name of the first space station launched into orbit by the Soviet Union in 1971?"},
-        {"question": "What is the name of the first space shuttle launched by NASA in 1981?"}
+ "questions" :
+      [
+        {"question": "In what year did World War II begin?"},
+        {"question": "What was the name of the war fought between the North and South of the United States from 1861 to 1865?"},
+        {"question": "What was the name of the war between England and France that lasted from 1337 to 1453?"},
+        {"question": "What was the name of the conflict between the United States and the Soviet Union that lasted from 1947 to 1991?"},
+        {"question": "What was the name of the war fought between the United States and Mexico from 1846 to 1848?"},
+        {"question": "What was the name of the war between Iran and Iraq that lasted from 1980 to 1988?"},
+        {"question": "What was the name of the conflict between the United States and Vietnam that lasted from 1955 to 1975?"},
+        {"question": "What was the name of the war between the Soviet Union and Afghanistan that lasted from 1979 to 1989?"},
+        {"question": "What was the name of the conflict between the United States-led coalition and Iraq that lasted from 2003 to 2011?"},
+        {"question": "What was the name of the war fought between the United States and Great Britain from 1812 to 1815?"}
       ],
-            "answers" :
-            [
-        {"answer": "Neil Armstrong"},
-        {"answer": "Opportunity"},
-        {"answer": "Sputnik 1"},
-        {"answer": "Sally Ride"},
-        {"answer": "Hubble Space Telescope"},
-        {"answer": "Dragon"},
-        {"answer": "New Horizons"},
-        {"answer": "Mercury-Redstone 3"},
-        {"answer": "Salyut 1"},
-        {"answer": "Columbia"}
-       ],
-            "options" :
-            [
-        {"option": "Buzz Aldrin"},
-        {"option": "Neil Armstrong"},
-        {"option": "Alan Shepard"},
-        {"option": "Yuri Gagarin"},
-        {"option": "Curiosity"},
-        {"option": "Opportunity"},
-        {"option": "Spirit"},
-        {"option": "Sputnik 1"},
-        {"option": "Explorer 1"},
-        {"option": "Telstar 1"},
-        {"option": "Kathryn Sullivan"},
-        {"option": "Sally Ride"},
-        {"option": "Christa McAuliffe"},
-        {"option": "Valentina Tereshkova"},
-        {"option": "Hubble Space Telescope"},
-        {"option": "James Webb Space Telescope"},
-        {"option": "Kepler Space Telescope"},
-        {"option": "Challenger"},
-        {"option": "Dragon"},
-        {"option": "Falcon 9"},
-        {"option": "Atlas V"},
-        {"option": "New Horizons"},
-        {"option": "Voyager 1"},
-        {"option": "Pioneer 10"},
-        {"option": "Mercury-Redstone 3"},
-        {"option": "Atlas-Agena"},
-        {"option": "Saturn V"},
-        {"option": "Salyut 1"},
-        {"option": "Mir"},
-        {"option": "Skylab"},
-        {"option": "Enterprise"},
-        {"option": "Endeavour"},
-        {"option": "Discovery"},
-        {"option": "Atlantis"}
-      ]
-        }
-    ],
+      "answers" :
+      [
+        {"answer": "1939"},
+        {"answer": "American Civil War"},
+        {"answer": "Hundred Years' War"},
+        {"answer": "Cold War"},
+        {"answer": "Mexican-American War"},
+        {"answer": "Iran-Iraq War"},
+        {"answer": "Vietnam War"},
+        {"answer": "Soviet-Afghan War"},
+        {"answer": "Iraq War"},
+        {"answer": "War of 1812"}
+      ],
+      "options" :
+      [
+        {"option": "1945"},
+        {"option": "1914"},
+        {"option": "1939"},
+        {"option": "Korean War"},
+        {"option": "American Revolution"},
+        {"option": "American Civil War"},
+        {"option": "War of 1812"},
+        {"option": "Hundred Years' War"},
+        {"option": "Thirty Years' War"},
+        {"option": "World War I"},
+        {"option": "World War II"},
+        {"option": "Cold War"},
+        {"option": "Mexican-American War"},
+        {"option": "Spanish-American War"},
+        {"option": "World War I"},
+        {"option": "Iran-Iraq War"},
+        {"option": "Gulf War"},
+        {"option": "Vietnam War"},
+        {"option": "Soviet-Afghan War"},
+        {"option": "Persian Gulf War"},
+        {"option": "Iraq War"},
+        {"option": "War in Afghanistan"},
+        {"option": "American Revolutionary War"}
+    ]
+     
 
     "quizimages" : [
         {
