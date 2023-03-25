@@ -345,7 +345,7 @@
 		"ico": "https://i.ibb.co/bd5GmTB/image-removebg-preview-4-1.png",
 		"bg": ""
 	}, {
-		"active": "false",
+		"active": "true",
 		"name": "games",
 		"ico": "https://i.ibb.co/BNQvW2Q/unnamed-1.jpg",
 		"bg": "#ffffff"
@@ -385,8 +385,8 @@
 
 	"games": [{
 			"name": "Snake.io: Fun Snake .io Games",
-			"ico": "https://i.ibb.co/KNgwg4M/rsz-icon.png",
-			"link": "https://skribbl.io/",
+			"ico": "https://i.ibb.co/QfqvKVh/rsz-icon.png",
+			"link": "https://evowars.io/?v=2.1.17",
 			"cat": "Overall",
 			"orientation": "1"
 
