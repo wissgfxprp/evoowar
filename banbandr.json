@@ -93,46 +93,62 @@
     ]
      
 
-    "quizimages" : [
+    "quizquestions" : [
         {
-            "images" :
+            "questions" :
             [
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q1.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q2.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q3.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q4.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q5.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q6.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q7.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q8.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q9.jpg" }
-            ],
-            "answers" :
-            [
-                { "answer" : "Royale High" },
-                { "answer" : "Adopt Me" },
-                { "answer" : "Meep City" },
-                { "answer" : "Work At A Pizza Place" },
-                { "answer" : "Piggy" },
-                { "answer" : "Banana Eats" },
-                { "answer" : "Anime Fighting Simulator" },
-                { "answer" : "Brookhaven" },
-                { "answer" : "JailBreak" }
-            ],
-            "options" :
-            [
-                { "option" : "Adopt Me" }, { "option" : "Robloxia High" }, { "option" : "Royale High" }, { "option" : "Meep City" },
-                { "option" : "Royale High " }, { "option" : "Adopt Me" }, { "option" : "Adopt And Raise" }, { "option" : "Pet Escape" },
-                { "option" : "Greenville" }, { "option" : "Adopt Me" }, { "option" : "Meep City" }, { "option" : "Work At A pizza Place" },
-                { "option" : "Luigi’s Coffee" }, { "option" : "Work At A Pizza Place" }, { "option" : "Pizza Simulator " }, { "option" : "Meep City" },
-                { "option" : "Pig Simulator" }, { "option" : "Piggy" }, { "option" : "Pepper Pig Game" }, { "option" : "Piggy Tycoon" },
-                { "option" : "Banana Simulator" }, { "option" : "Banana Eats" }, { "option" : "Scary Banana" }, { "option" : "Run Away From Banana" },
-                { "option" : "Anime Fighting Simulator" }, { "option" : "Sword Fighting" }, { "option" : "Bed Wars" }, { "option" : "Pilfering Pirates" },
-                { "option" : "Adopt Me" }, { "option" : "Greenville" }, { "option" : "Brookhaven" }, { "option" : "Robloxia High School" },
-                { "option" : "Police And Criminal Simulator" }, { "option" : "Da Hood" }, { "option" : "Murder Mystery" }, { "option" : "JailBreak" }
-             ]
+        {"question": "In what year did World War II begin?"},
+        {"question": "What was the name of the war fought between the North and South of the United States from 1861 to 1865?"},
+        {"question": "What was the name of the war between England and France that lasted from 1337 to 1453?"},
+        {"question": "What was the name of the conflict between the United States and the Soviet Union that lasted from 1947 to 1991?"},
+        {"question": "What was the name of the war fought between the United States and Mexico from 1846 to 1848?"},
+        {"question": "What was the name of the war between Iran and Iraq that lasted from 1980 to 1988?"},
+        {"question": "What was the name of the conflict between the United States and Vietnam that lasted from 1955 to 1975?"},
+        {"question": "What was the name of the war between the Soviet Union and Afghanistan that lasted from 1979 to 1989?"},
+        {"question": "What was the name of the conflict between the United States-led coalition and Iraq that lasted from 2003 to 2011?"},
+        {"question": "What was the name of the war fought between the United States and Great Britain from 1812 to 1815?"}
+      ],
+      "answers" :
+      [
+        {"answer": "1939"},
+        {"answer": "American Civil War"},
+        {"answer": "Hundred Years' War"},
+        {"answer": "Cold War"},
+        {"answer": "Mexican-American War"},
+        {"answer": "Iran-Iraq War"},
+        {"answer": "Vietnam War"},
+        {"answer": "Soviet-Afghan War"},
+        {"answer": "Iraq War"},
+        {"answer": "War of 1812"}
+      ],
+      "options" :
+      [
+        {"option": "1945"},
+        {"option": "1914"},
+        {"option": "1939"},
+        {"option": "Korean War"},
+        {"option": "American Revolution"},
+        {"option": "American Civil War"},
+        {"option": "War of 1812"},
+        {"option": "Hundred Years' War"},
+        {"option": "Thirty Years' War"},
+        {"option": "World War I"},
+        {"option": "World War II"},
+        {"option": "Cold War"},
+        {"option": "Mexican-American War"},
+        {"option": "Spanish-American War"},
+        {"option": "World War I"},
+        {"option": "Iran-Iraq War"},
+        {"option": "Gulf War"},
+        {"option": "Vietnam War"},
+        {"option": "Soviet-Afghan War"},
+        {"option": "Persian Gulf War"},
+        {"option": "Iraq War"},
+        {"option": "War in Afghanistan"},
+        {"option": "American Revolutionary War"}
+      ]
         }
-     ],
+    ],
     "menu" : [
         {
             "active" : "false",
