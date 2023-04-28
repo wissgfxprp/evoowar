@@ -315,12 +315,12 @@
 		"ico": "https://i.ibb.co/4gz3b0r/image-removebg-preview-1.png",
 		"bg": "#ffffff"
 	}, {
-		"active": "false",
+		"active": "true",
 		"name": "spinner",
 		"ico": "https://i.ibb.co/7JhZL13/image-removebg-preview-2-1.png",
 		"bg": "#ffffff"
 	}, {
-		"active": "false",
+		"active": "true",
 		"name": "scratch",
 		"ico": "https://i.ibb.co/WDqhxS4/image-removebg-preview-3-1.png",
 		"bg": "#ffffff"
